@@ -69,7 +69,7 @@ const FlowersSection = () => {
             ¡Una carta especial para ti!
           </div>
           <p className="text-base sm:text-lg text-gray-200 mb-4">
-            Mi amor, cada flor amarilla es un reflejo de tu belleza infinita y tu hermosura te amo mutisisiisisisisisisisisisisisisisisisisisisisisisisisimo mi amor hemosha, muaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+            Mi amor, cada flor amarilla es un reflejo de tu belleza infinita y tu hermosura <br></br> te amo mutisisiisisisisisisisisisisisisisisisisisisisisisisisimo mi amor hemosha,<br></br> muaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
           </p>
           <p className="text-base sm:text-lg text-gray-200">
             Gracias por cada momento compartido. Te amo muto hata el infinito. 💖
