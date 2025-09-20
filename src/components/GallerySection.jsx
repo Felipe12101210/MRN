@@ -67,8 +67,8 @@ const GallerySection = () => {
                   alt={`Imagen ${idx + 1}`}
                   className="
                     w-[250px] h-[170px] 
-                    sm:w-[400px] sm:h-[280px] 
-                    lg:w-[600px] lg:h-[600px]
+                    sm:w-[290px] sm:h-[280px] 
+                    lg:w-[350px] lg:h-[350px]
                     object-cover rounded-xl lg:rounded-2xl
                     shadow-xl lg:shadow-2xl border-2 sm:border-4 border-pink-400
                     hover:scale-110 transition-transform duration-300

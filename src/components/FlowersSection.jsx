@@ -69,11 +69,10 @@ const FlowersSection = () => {
             ¡Una carta especial para ti!
           </div>
           <p className="text-base sm:text-lg text-gray-200 mb-4">
-            Nicolle, cada flor amarilla es un recordatorio de lo especial que eres para mí. 
-            Este ramo es solo un pequeño símbolo de mi amor por ti.
+            Mi amor, cada flor amarilla es un reflejo de tu belleza infinita y tu hermosura te amo mutisisiisisisisisisisisisisisisisisisisisisisisisisisimo mi amor hemosha, muaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
           </p>
           <p className="text-base sm:text-lg text-gray-200">
-            Gracias por cada momento compartido. Te quiero mucho. 💖
+            Gracias por cada momento compartido. Te amo muto hata el infinito. 💖
           </p>
         </animated.div>
       </div>
